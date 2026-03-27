@@ -1,5 +1,5 @@
 # <u>Eco-délégués Sainte-Trinité, une lutte pour une école plus propre</u>
-<u>**Actions Éco-Trinitaires, en lien avec l'[Institution Sainte-Trinité](https://www.sainte-trinite.fr)</u>**
+**<u>Actions Éco-Trinitaires, en lien avec l'[Institution Sainte-Trinité](https://www.sainte-trinite.fr)</u>**
 ![Logo Éco-Trinitaire] (https://raw.githubusercontent.com/ThanhTriNath/ecotrinite-sainte-trinite-presentation/refs/heads/main/Logo_officiel_%C3%89co-Trinit%C3%A9.PNG)
 > Nos actions ont pour but de **rendre l'école plus verte** pour être en harmonie avec la proteciton et la sauvegarde de notre planète par la nouvelle génération.
 
