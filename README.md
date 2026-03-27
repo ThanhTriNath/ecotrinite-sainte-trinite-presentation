@@ -5,7 +5,7 @@
 
 > Nos actions ont pour but de **rendre l'école plus verte** pour être en harmonie avec la protection et la sauvegarde de notre planète par la nouvelle génération.
 
-> Retrouvez nos actions sur les sites dédiés à notre _éco-école_ sur les sites [https://thanhtrinath.github.io/EcoTrinite/] (https://thanhtrinath.github.io/EcoTrinite/) et [https://ecotrinite-sainte-trinite/site-accueil/](https://ecotrinite-sainte-trinite/site-accueil/).
+> Retrouvez nos actions sur les sites dédiés à notre _éco-école_ sur les sites [https://thanhtrinath.github.io/EcoTrinite/](https://thanhtrinath.github.io/EcoTrinite/) et [https://ecotrinite-sainte-trinite/site-accueil/](https://ecotrinite-sainte-trinite/site-accueil/).
 
 ## <ins>**Notre serre connectée via Arduino**</ins>
 
