@@ -1,4 +1,4 @@
-# <u>Eco-délégués Sainte-Trinité, une lutte pour une école plus propre</u>
+# <u>Eco-école Trinitaire, une lutte pour une vie plus propre</u>
 **<u>Actions Éco-Trinitaires</u>, en lien avec l'[Institution Sainte-Trinité](https://www.sainte-trinite.fr)**
 ![Logo Éco-Trinitaire](https://raw.githubusercontent.com/ThanhTriNath/ecotrinite-sainte-trinite-presentation/refs/heads/main/Logo_officiel_%C3%89co-Trinit%C3%A9.PNG)
 
